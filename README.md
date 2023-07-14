@@ -25,3 +25,15 @@ $ npx http-server -p 3000
 
 # O servidor irá se iniciar na porta:"3000" - acesse <http://localhost:3000>
 ```
+
+### Tecnologias utilizadas 
+As seguintes ferramentas foram utilizadas no desenvolvimento deste projeto:
+- [HTML](https://html.com/document/)
+- [CSS](https://www.w3schools.com/cssref/index.php)
+
+---
+
+Made by:
+
+ - Marcos Jr [See LinkedIn](https://www.linkedin.com/in/marcos-gon%C3%A7alves-bbb17a1b5)
+ - Mateus Akira [See LinkedIn](https://www.linkedin.com/in/mateus-akira-muranaka-829520218/)
