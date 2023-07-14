@@ -1,0 +1,15 @@
+{
+  "name": "projeto-japoronga",
+  "version": "1.0.0",
+  "description": "Projeto da primeira fase do Bacharel de Engenharia de Software da Pontifícia Universidade Católica de Santa Catarina - Campus Joinville, para o desenvolvimento de um website utilizando HTML e CSS, apresentando uma viagem turística.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
